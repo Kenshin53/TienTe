@@ -1,0 +1,478 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head><title>
+	Ngân hàng thương mại cổ phần Ngoại thương Việt Nam - Vietcombank
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="Keywords" content="ngan hang, thuong mai co phan, ngoai thuong, vietnam, vietcombank, joint stock, commercial, bank, foreign trade, online banking, internet banking, ebanking, ibanking, ca nhan, personal, doanh nghiep, corporates, dinh che tai chinh, financial institutions, ty gia, lai suat" /><meta name="Description" content="Ngân hàng thương mại cổ phần Ngoại thương Việt Nam - Vietcombank" /><meta name="Robots" content="index,follow" /><meta name="Revisit-after" content="3 days" /><link rel="shortcut icon" href="../favicon.ico" /><link href="../stylesheet/subpage.css" rel="stylesheet" type="text/css" /><link href="../stylesheet/global.css?1" rel="stylesheet" type="text/css" /><link href="../jquery/themes/vcb/vcb.calendar.css" rel="stylesheet" type="text/css" />
+
+<script src="/js/ui.js?1" type="text/javascript"></script>
+<script src="/jquery/jquery.js" type="text/javascript"></script>
+<script src="/jquery/ui.calendar.js" type="text/javascript"></script>
+<script src="/js/menu.js" type="text/javascript"></script>
+
+</head>
+
+<body>
+
+<div id="global-wrap">
+<form name="aspnetForm" method="post" action="Default.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2ODQ2MDMzMjIPZBYCZg9kFgICAw9kFgQCAQ9kFgICAw9kFgICAg8WAh4LXyFJdGVtQ291bnQCCBYQAgEPZBYCAgEPDxYEHgRUZXh0BQtUcmFuZyBjaOG7px4LTmF2aWdhdGVVcmwFAn4vZGQCAg9kFgICAQ8PFgQfAQUJQ8OhIG5ow6JuHwIFC34vUGVyc29uYWwvZGQCAw9kFgICAQ8PFgQfAQUORG9hbmggbmdoaeG7h3AfAgUNfi9Db3Jwb3JhdGVzL2RkAgQPZBYCAgEPDxYEHwEFGcSQ4buLbmggY2jhur8gdMOgaSBjaMOtbmgfAgUFfi9GSS9kZAIFD2QWAgIBDw8WBB8BBRhOZ8OibiBow6BuZyDEkWnhu4duIHThu60fAgULfi9FQmFua2luZy9kZAIGD2QWAgIBDw8WBB8BBQ5UdXnhu4NuIGThu6VuZx8CBQp+L0NhcmVlcnMvZGQCBw9kFgICAQ8PFgQfAQUPTmjDoCDEkeG6p3UgdMawHwIFDH4vSW52ZXN0b3JzL2RkAggPZBYCAgEPDxYEHwEFDkdp4bubaSB0aGnhu4d1HwIFCH4vQWJvdXQvZGQCCw9kFgICAQ9kFgICAg8WAh8AAgUWCgIBD2QWAgIBDw8WBB8BBRvEkGnhu4F1IGtob+G6o24gc+G7rSBk4bulbmcfAgUYfi9VbmRlckNvbnN0cnVjdGlvbi5hc3B4ZGQCAg9kFgICAQ8PFgQfAQULQuG6o28gbeG6rXQfAgUYfi9VbmRlckNvbnN0cnVjdGlvbi5hc3B4ZGQCAw9kFgICAQ8PFgQfAQUKTGnDqm4gaOG7hx8CBSZtYWlsdG86d2VibWFzdGVyW2F0XXZpZXRjb21iYW5rLmNvbS52bmRkAgQPZBYCAgEPDxYEHwEFEVPGoSDEkeG7kyB3ZWJzaXRlHwIFDn4vU2l0ZW1hcC5hc3B4ZGQCBQ9kFgICAQ8PFgQfAQUUVmlldGNvbWJhbmsgV2ViIE1haWwfAgUsaHR0cDovL2V4Y2hhbmdlLnZpZXRjb21iYW5rLmNvbS52bi9leGNoYW5nZS9kZBgCBRhjdGwwMCRDb250ZW50JEV4cmF0ZVZpZXcPPCsACgEIAgFkBSpjdGwwMCRIZWFkZXIkTGFuZ3VhZ2VTd2l0Y2hlciRMYW5ndWFnZVZpZXcPD2QCAWTSup8bLoHP298y0jpf/nNIAzo0bg==" />
+</div>
+
+    
+<!-- header-->
+<div id="header" class="clearfix">
+    <div id="logo">
+        <a id="ctl00_Header_Logo" title="Vietcombank" href="../"><img title="Vietcombank" src="../images/logo_vcb.png" alt="Vietcombank" style="border-width:0px;" /></a>
+    </div>
+    <div class="righthdr">
+        
+<!-- main navigation-->
+<div id="mainnav">
+
+    <ul class="clearfix">
+    
+        <li>
+            <a id="ctl00_Header_Navigation_NaviRepeater_ctl01_NaviLink" href="../">Trang chủ</a>
+        </li>
+    
+        <li>
+            <a id="ctl00_Header_Navigation_NaviRepeater_ctl02_NaviLink" href="../Personal/">Cá nhân</a>
+        </li>
+    
+        <li>
+            <a id="ctl00_Header_Navigation_NaviRepeater_ctl03_NaviLink" href="../Corporates/">Doanh nghiệp</a>
+        </li>
+    
+        <li>
+            <a id="ctl00_Header_Navigation_NaviRepeater_ctl04_NaviLink" href="../FI/">Định chế tài chính</a>
+        </li>
+    
+        <li>
+            <a id="ctl00_Header_Navigation_NaviRepeater_ctl05_NaviLink" href="../EBanking/">Ngân hàng điện tử</a>
+        </li>
+    
+        <li>
+            <a id="ctl00_Header_Navigation_NaviRepeater_ctl06_NaviLink" href="../Careers/">Tuyển dụng</a>
+        </li>
+    
+        <li>
+            <a id="ctl00_Header_Navigation_NaviRepeater_ctl07_NaviLink" href="../Investors/">Nhà đầu tư</a>
+        </li>
+    
+        <li>
+            <a id="ctl00_Header_Navigation_NaviRepeater_ctl08_NaviLink" href="../About/">Giới thiệu</a>
+        </li>
+    
+    </ul>
+    
+</div>
+<!-- end main navigation-->
+        <div class="hdrtool">
+            
+<a id="ctl00_Header_LanguageSwitcher_Language2" title="English" href="http://www.vietcombank.com.vn/en/"><img title="English" src="../images/icon_lang_en.gif" alt="English" style="border-width:0px;" /></a>
+
+            
+<label>Cỡ chữ</label>
+<script type="text/javascript" src="../js/fontsize.js"></script>
+<a href="#" onclick="increaseFontSize()" onkeypress="increaseFontSize()"><img src="../images/icon_plus.gif" id="ctl00_Header_FontSizeSwitcher_plus" alt="Tăng" title="Tăng" /></a>
+<a href="#" onclick="decreaseFontSize()" onkeypress="decreaseFontSize()"><img src="../images/icon_minus.gif" id="ctl00_Header_FontSizeSwitcher_minus" alt="Giảm" title="Giảm" /></a>
+        </div>
+    </div>
+</div>
+<!-- end header-->
+    <!-- contents-->
+    <div id="contents" class="clearfix">
+        <div class="leftsidebar">
+            <div class="left-roundbox"><h3 class="gtitle">Trong mục n&#224;y</h3><div class="boxbody"><ul class="subnavi"><li><a href="/ExchangeRates/">Tỷ giá ngoại tệ</a></li><li class="hassub"><a href="/InterestRates/">Lãi suất</a><ul><li><a href="/InterestRates/">Khách hàng cá nhân</a></li><li><a href="/InterestRates/?Type=Corporates">Khách hàng doanh nghiệp</a></li></ul></li><li><a href="/ExchangeRates/Subscribe.aspx">Bản tin tỷ giá</a></li><li><a href="/ATM/">Điểm đặt ATM</a></li><li><a href="/Sitemap.aspx">Sơ đồ website</a></li></ul></div></div>
+        </div>
+        <div class="subcontent threecols">
+            
+<div class="navigator">
+<img id="ctl00_Breadcrumb_Home" title="Trang chủ" src="../images/icon_home.gif" alt="Trang chủ" style="border-width:0px;" />
+<span id="ctl00_Breadcrumb_SiteMapPath"><a href="#ctl00_Breadcrumb_SiteMapPath_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=1jj4tZQ3HvTJP-ZTNDVfDA2&amp;t=633758382476562500" style="border-width:0px;" /></a><span><a title="Trang chủ" href="/Default.aspx" style="font-weight:bold;">Trang chủ</a></span><span> &#187; </span><span style="font-weight:bold;">Tỷ gi&#225; ngoại tệ</span><a id="ctl00_Breadcrumb_SiteMapPath_SkipLink"></a></span>
+</div>
+            
+
+<div class="gradientbox">
+<div id="exch-rates" class="clearfix">
+<h2>
+    <a href="ExrateXML.aspx"><img src="../images/xml.gif" alt="XML" style="float: right" /></a>
+    Tỷ giá ngoại tệ
+</h2>
+<p>
+    Tỷ giá các ngoại tệ của Ngân hàng thương mại cổ phần Ngoại thương Việt Nam
+</p>
+<div>
+	<table class="tbl-01 rateTable" cellspacing="1" border="0" id="ctl00_Content_ExrateView">
+		<tr>
+			<th scope="col">M&#227; NT</th><th scope="col">T&#234;n ngoại tệ</th><th scope="col">Mua tiền mặt</th><th scope="col">Mua chuyển khoản</th><th scope="col">Bán</th>
+		</tr><tr class="odd">
+			<td class="code">AUD</td><td class="code">AUST.DOLLAR</td><td>
+                16,502.81
+            </td><td>16,602.42</td><td>
+                16,864.49
+            </td>
+		</tr><tr class="even">
+			<td class="code">CAD</td><td class="code">CANADIAN DOLLAR</td><td>
+                18,252.05
+            </td><td>18,417.81</td><td>
+                18,671.16
+            </td>
+		</tr><tr class="odd">
+			<td class="code">CHF</td><td class="code">SWISS FRANCE</td><td>
+                17,799.30
+            </td><td>17,924.77</td><td>
+                18,207.72
+            </td>
+		</tr><tr class="even">
+			<td class="code">DKK</td><td class="code">DANISH KRONE</td><td>
+                -
+            </td><td>3,203.13</td><td>
+                3,266.73
+            </td>
+		</tr><tr class="odd">
+			<td class="code">EUR</td><td class="code">EURO</td><td>
+                23,875.33
+            </td><td>23,947.17</td><td>
+                24,276.59
+            </td>
+		</tr><tr class="even">
+			<td class="code">GBP</td><td class="code">BRITISH POUND</td><td>
+                28,358.62
+            </td><td>28,558.53</td><td>
+                28,951.38
+            </td>
+		</tr><tr class="odd">
+			<td class="code">HKD</td><td class="code">HONGKONG DOLLAR</td><td>
+                2,426.12
+            </td><td>2,443.22</td><td>
+                2,476.83
+            </td>
+		</tr><tr class="even">
+			<td class="code">INR</td><td class="code">INDIAN RUPEE</td><td>
+                -
+            </td><td>403.84</td><td>
+                421.87
+            </td>
+		</tr><tr class="odd">
+			<td class="code">JPY</td><td class="code">JAPANESE YEN</td><td>
+                210.60
+            </td><td>212.73</td><td>
+                216.95
+            </td>
+		</tr><tr class="even">
+			<td class="code">KRW</td><td class="code">SOUTH KOREAN WON</td><td>
+                -
+            </td><td>14.52</td><td>
+                17.81
+            </td>
+		</tr><tr class="odd">
+			<td class="code">KWD</td><td class="code">KUWAITI DINAR</td><td>
+                -
+            </td><td>65,344.48</td><td>
+                66,909.15
+            </td>
+		</tr><tr class="even">
+			<td class="code">MYR</td><td class="code">MALAYSIAN RINGGIT</td><td>
+                -
+            </td><td>5,927.22</td><td>
+                6,044.91
+            </td>
+		</tr><tr class="odd">
+			<td class="code">NOK</td><td class="code">NORWEGIAN KRONER</td><td>
+                -
+            </td><td>2,976.42</td><td>
+                3,035.53
+            </td>
+		</tr><tr class="even">
+			<td class="code">RUB</td><td class="code">RUSSIAN RUBLE</td><td>
+                -
+            </td><td>561.34</td><td>
+                688.60
+            </td>
+		</tr><tr class="odd">
+			<td class="code">SEK</td><td class="code">SWEDISH KRONA</td><td>
+                -
+            </td><td>2,525.70</td><td>
+                2,575.85
+            </td>
+		</tr><tr class="even">
+			<td class="code">SGD</td><td class="code">SINGAPORE DOLLAR</td><td>
+                13,662.97
+            </td><td>13,759.29</td><td>
+                13,948.57
+            </td>
+		</tr><tr class="odd">
+			<td class="code">THB</td><td class="code">THAI BAHT</td><td>
+                578.41
+            </td><td>578.41</td><td>
+                604.23
+            </td>
+		</tr><tr class="even">
+			<td class="code">USD</td><td class="code">US DOLLAR</td><td>
+                19,080.00
+            </td><td>19,080.00</td><td>
+                19,095.00
+            </td>
+		</tr>
+	</table>
+</div>
+<table>
+<tr>
+    <td>
+        <label for="ctl00_Content_BranchList" id="ctl00_Content_BranchLabel">Chi nhánh:</label>
+    </td>
+    <td>
+        <select name="ctl00$Content$BranchList" id="ctl00_Content_BranchList" class="slt-slim-border">
+	<option value="15">An Giang</option>
+	<option value="61">Ba Đ&#236;nh</option>
+	<option value="73">Bắc Giang</option>
+	<option value="35">Bắc Ninh</option>
+	<option value="33">Bến Th&#224;nh</option>
+	<option value="48">Bi&#234;n H&#242;a</option>
+	<option value="28">B&#236;nh Dương</option>
+	<option value="25">B&#236;nh T&#226;y</option>
+	<option value="53">B&#236;nh Thạnh</option>
+	<option value="62">B&#236;nh Thuận</option>
+	<option value="19">C&#224; Mau</option>
+	<option value="58">Cam Ranh</option>
+	<option value="11">Cần Thơ</option>
+	<option value="47">Ch&#226;u Đốc</option>
+	<option value="54">Chương Dương</option>
+	<option value="56">Đ&#224; Lạt</option>
+	<option value="4">Đ&#224; Nẵng</option>
+	<option value="23">Đắc Lắc</option>
+	<option value="12">Đồng Nai</option>
+	<option value="60">Đồng Th&#225;p</option>
+	<option value="57">Dung Quất</option>
+	<option value="29">Gia Lai</option>
+	<option value="52">Hạ Long</option>
+	<option value="2">H&#224; Nội</option>
+	<option value="69">H&#224; T&#226;y</option>
+	<option value="20">H&#224; Tĩnh</option>
+	<option value="34">Hải Dương</option>
+	<option value="3">Hải Ph&#242;ng</option>
+	<option value="30">Ho&#224;n Kiếm</option>
+	<option selected="selected" value="68">Hội Sở Ch&#237;nh</option>
+	<option value="16">Huế</option>
+	<option value="59">Hưng Y&#234;n</option>
+	<option value="41">Khu C&#244;ng Nghiệp</option>
+	<option value="9">Ki&#234;n Giang</option>
+	<option value="76">Kon Tum</option>
+	<option value="72">Kỳ Đồng</option>
+	<option value="63">Long An</option>
+	<option value="55">M&#243;ng C&#225;i</option>
+	<option value="18">Nam S&#224;i G&#242;n</option>
+	<option value="6">Nha Trang</option>
+	<option value="40">Nhơn Trạch</option>
+	<option value="43">Ph&#250; T&#224;i</option>
+	<option value="42">Ph&#250; Thọ</option>
+	<option value="75">Ph&#250; Y&#234;n</option>
+	<option value="51">Quận 5</option>
+	<option value="31">Quảng B&#236;nh</option>
+	<option value="65">Quảng Nam</option>
+	<option value="27">Quảng Ng&#227;i</option>
+	<option value="14">Quảng Ninh</option>
+	<option value="77">Quảng Trị</option>
+	<option value="5">Quy Nhơn</option>
+	<option value="1">Sở Giao Dịch</option>
+	<option value="32">S&#243;c Trăng</option>
+	<option value="46">S&#243;ng Thần</option>
+	<option value="44">T&#226;n B&#236;nh</option>
+	<option value="37">T&#226;n Định</option>
+	<option value="70">T&#226;y Ninh</option>
+	<option value="21">Th&#225;i B&#236;nh</option>
+	<option value="49">Thăng Long</option>
+	<option value="45">Th&#224;nh C&#244;ng</option>
+	<option value="78">Thanh H&#243;a</option>
+	<option value="71">Thanh Xu&#226;n</option>
+	<option value="38">Thủ Đức</option>
+	<option value="67">Tiền Giang</option>
+	<option value="7">TP HCM</option>
+	<option value="39">Tr&#224; N&#243;c</option>
+	<option value="74">Tr&#224; Vinh</option>
+	<option value="10">Vinh</option>
+	<option value="50">Vĩnh Lộc</option>
+	<option value="79">Vĩnh Long</option>
+	<option value="36">Vĩnh Ph&#250;c</option>
+	<option value="8">Vũng T&#224;u</option>
+	<option value="64">Xu&#226;n An</option>
+
+</select>
+    </td>
+</tr>
+<tr>
+    <td>
+        <label for="ctl00_Content_DateText" id="ctl00_Content_DateLabel">Ngày:</label>
+    </td>
+    <td>
+        <input name="ctl00$Content$DateText" type="text" value="12/7/2010" maxlength="10" id="ctl00_Content_DateText" />
+        <script type="text/javascript">
+        // <![CDATA[
+        $(document).ready(function() {
+            $('#ctl00_Content_DateText').calendar();
+        });
+        // ]]>
+        </script>
+        &nbsp;
+        <input type="submit" name="ctl00$Content$ViewButton" value="Xem" id="ctl00_Content_ViewButton" />
+    </td>
+</tr>
+<tr>
+    <td>Tải về:</td>
+    <td>
+        <a href="ExrateXLS.aspx"><img src="../images/excel.gif" alt="Excel" /></a>
+    </td>
+</tr>
+</table>
+</div>
+</div>
+
+        </div>
+        
+<div class="rightsidebar">
+    
+<!--services-->
+<div class="roundbox">
+<h3 class="title">Lựa chọn dịch vụ</h3>
+<div class="boxbody">
+
+<select class="slt-slim-border" onchange="if (this.value != '') document.location = this.value">
+    <option value="">Chọn dịch vụ</option>
+    
+    <option value="../Personal/">Dịch vụ cho C&#225; nh&#226;n</option>
+    
+    <option value="../Personal/Account/">T&#224;i khoản</option>
+    
+    <option value="../Personal/Card">Thẻ</option>
+    
+    <option value="../Personal/Saving/">Huy động vốn</option>
+    
+    <option value="../Personal/MoneyTransfer/">Chuyển &amp; Nhận tiền</option>
+    
+    <option value="../Personal/Loan/">Cho vay c&#225; nh&#226;n</option>
+    
+    <option value="../Personal/OnlineBanking/">Ng&#226;n h&#224;ng điện tử</option>
+    
+    <option value="">......................................................</option>
+    
+    <option value=""></option>
+    
+    <option value="../Corporates/">Dịch vụ cho Doanh nghiệp</option>
+    
+    <option value="../Corporates/Account/">Dịch vụ T&#224;i khoản</option>
+    
+    <option value="../Corporates/Payments/">Dịch vụ Thanh To&#225;n</option>
+    
+    <option value="../Corporates/Guarantee/">Dịch vụ Bảo l&#227;nh</option>
+    
+    <option value="../Corporates/Lending/">Dịch vụ Cho vay</option>
+    
+    <option value="../Corporates/Factoring/">Bao thanh to&#225;n</option>
+    
+    <option value="../Corporates/Forex/">Kinh doanh ngoại tệ</option>
+    
+    <option value="../Corporates/Bonds/">Doanh nghiệp ph&#225;t h&#224;nh TP</option>
+    
+    <option value="../Corporates/EBanking/">Ng&#226;n h&#224;ng điện tử</option>
+    
+    <option value="../Corporates/AsProducts/">Sản phẩm li&#234;n kết</option>
+    
+    <option value="">......................................................</option>
+    
+    <option value=""></option>
+    
+    <option value="../FI/">
+      Dịch vụ cho định chế t&#224;i ch&#237;nh
+    </option>
+    
+    <option value="../FI/Correspondent/">Ng&#226;n h&#224;ng đại l&#253;</option>
+    
+    <option value="../FI/Account/">Dịch vụ t&#224;i khoản</option>
+    
+    <option value="../FI/VCBMoney/">VCB-Money</option>
+    
+    <option value="../FI/CapitalInvestment/">Kinh doanh vốn</option>
+    
+    <option value="../FI/CNTFinance/">T&#224;i trợ thương mại</option>
+    
+    <option value="../FI/Factoring/">Bao thanh to&#225;n</option>
+    
+</select>
+    
+</div>
+</div>
+<!--end services-->
+    
+<div class="roundbox">
+<h3 class="title">Tiện ích</h3>
+
+<div class="boxbody">
+    <ul class="rightlinks">
+    
+        <li>
+            <a id="ctl00_ToolsRight_RightUtils_Repeater_ctl01_NaviLink" href="javascript:addFavourite();">Bookmark</a>
+        </li>
+    
+        <li>
+            <a id="ctl00_ToolsRight_RightUtils_Repeater_ctl02_NaviLink" href="../Sitemap.aspx">Sơ đồ website</a>
+        </li>
+    
+    </ul>
+</div>
+    
+</div>
+
+    
+<div class="roundbox">
+<h3 class="title">Mạng lưới</h3>
+<div class="boxbody">
+    <ul class="rightlinks">
+    <li>
+        <a id="ctl00_ToolsRight_NetworkBox_Network" href="../About/Network.aspx">Mạng lưới VCB</a>
+    </li>
+    <li>
+        <a id="ctl00_ToolsRight_NetworkBox_ATM" href="../ATM/Default.aspx">Điểm đặt ATM</a>
+    </li>
+    </ul>
+</div>
+</div>
+</div>
+    </div>
+    <!-- end contents-->
+    
+<!-- footer-->
+<div id="footer">
+    
+<div class="copyright">
+
+    <p>
+    
+        <a id="ctl00_Footer_FooterMenu_MenuRepeater_ctl01_MenuLink" href="../UnderConstruction.aspx">Điều khoản sử dụng</a>
+    
+        <a id="ctl00_Footer_FooterMenu_MenuRepeater_ctl02_MenuLink" href="../UnderConstruction.aspx">Bảo mật</a>
+    
+        <a id="ctl00_Footer_FooterMenu_MenuRepeater_ctl03_MenuLink" href="mailto:webmaster[at]vietcombank.com.vn">Liên hệ</a>
+    
+        <a id="ctl00_Footer_FooterMenu_MenuRepeater_ctl04_MenuLink" href="../Sitemap.aspx">Sơ đồ website</a>
+    
+        <a id="ctl00_Footer_FooterMenu_MenuRepeater_ctl05_MenuLink" href="http://exchange.vietcombank.com.vn/exchange/">Vietcombank Web Mail</a>
+    
+    </p>
+    
+    <p><strong>&copy; 2001-2010 Vietcombank.</strong></p>
+</div>
+    
+</div>
+<!-- end footer-->
+</form>
+</div>
+
+</body>
+
+</html>
