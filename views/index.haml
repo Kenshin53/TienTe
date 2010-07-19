@@ -1,0 +1,23 @@
+%link{:rel => "stylesheet", :href => "style.css", :type => "text/css", :charset => "utf-8"}
+
+
+#container
+	#header
+		%h2 Welcome to our site!
+	#content
+		%table#box-table-a
+			%tr.header_row 
+				%th Loai
+				%th Mua vao
+				%th Ban ra
+				%th Chuyen Khoan
+			-@currency_list.each do |currency|
+				%tr
+					%td= currency.currency_code
+					%td= currency.buy_in_cash
+					%td= currency.sell_in_cash
+					%td= currency.transfer
+		%p End of the table
+			
+		
+			

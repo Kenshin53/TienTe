@@ -38,7 +38,7 @@ class VCBParser
      a_currency.currency_code  = a_row.children[0].content.downcase.lstrip.rstrip
      a_currency.buy_in_cash    = a_row.children[2].content.lstrip.rstrip.gsub(',','').to_f
      a_currency.sell_in_cash   = a_row.children[4].content.lstrip.rstrip.gsub(',','').to_f
-     a_currency.tranfer        = a_row.children[3].content.lstrip.rstrip.gsub(',','').to_f
+     a_currency.transfer        = a_row.children[3].content.lstrip.rstrip.gsub(',','').to_f
      return a_currency
   end
 end
@@ -54,14 +54,14 @@ class TestVCBParser < Test::Unit::TestCase
     usd_currency.currency_code = "usd"
     usd_currency.buy_in_cash = 19080.00
     usd_currency.sell_in_cash = 19095.00
-    usd_currency.tranfer = 19080.00 
+    usd_currency.transfer = 19080.00 
     
     gbp_currency = Currency.new
     gbp_currency.bank_code = "VCB"
     gbp_currency.currency_code = "gbp"
     gbp_currency.buy_in_cash = 28358.62
     gbp_currency.sell_in_cash = 28951.38
-    gbp_currency.tranfer = 28558.53
+    gbp_currency.transfer = 28558.53
     get_gbp_query = '//div[@id="exch-rates"]/div/table/tr[7]'
     gbp_node = parser.get_a_html_node(get_gbp_query)
     result_currency = parser.parse_a_row(gbp_node)
@@ -76,19 +76,9 @@ class TestVCBParser < Test::Unit::TestCase
     result_currency = parser.parse_a_row(usd_node)
     
     assert_equal(usd_currency, result_currency, 'USD cannot be read correctly')
-    #assert_equal(usd_currency, , 'USD cannot be read correctly')
-    
-    
-    
-    
-    
-    
-#    doc.xpath('//div[@id="exch-rates"]/div/table/tr[2]').each do |row|   
- #   end
+   
   end
   
-  #test number of row parsed
-  #test for first and two item see if it match
   
 end
 
