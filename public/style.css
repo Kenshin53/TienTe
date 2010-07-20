@@ -1,0 +1,59 @@
+#container {
+	width: 800px;
+	margin: 0px auto;
+}
+
+#container #header {
+	font-family: "Lucida Sans Unicode", "Lucida Grande";
+	font-size: 1.5em;
+	text-align: center; 
+}
+
+#container #content {
+	margin: 0 auto;
+	border: 1px solid red;
+}
+
+#container #content #box-table-a {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 12px;
+	margin: 60px auto;
+	width: 450px;
+	text-align: left;
+	border-collapse: collapse; 
+}
+
+
+
+#container #content #box-table-a th {
+	font-size: 13px;
+	font-weight: normal;
+	padding: 8px;
+	background: #b9c9fe;
+	border-top: 4px solid #aabcfe;
+	border-bottom: 1px solid white;
+	color: #003399; 
+}
+#container #content #box-table-a td {
+	padding: 8px;
+	background: #e8edff;
+	border-bottom: 1px solid white;
+	color: #666699;
+	border-top: 1px solid transparent; 
+}
+
+#container #content #box-table-a tr:hover td {
+	background: #d0dafd;
+	color: #333399; 
+}
+
+
+.error_message{
+	font-family:	Georgia;
+	font-size:	2em;
+	font-weight:	bold;
+	letter-spacing: 0.1em;
+	background-color:	#eee;
+	color:	orange;
+	
+}
